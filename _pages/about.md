@@ -11,7 +11,7 @@ Prior to starting grad school, I took a gap year working as a pastry cook for Er
 
 During summer breaks over my undergrad years, I have worked as an REU in [Modlab](https://www.modlabupenn.org/) at UPenn, and a mechanical engineering intern building oversized crop dusting drones at [Guardian Agriculture](https://www.guardian.ag/) in Massachusetts. 
 
-I was also a member of Team [Overhaul](https://battlebots.com/robot/overhaul-2018/) in the 2018 and 2021 seasons of Battlebots, and Team [Valkyrie] (https://battlebots.com/robot/valkyrie-2019/) in 2019.   
+I was also a member of Team [Overhaul](https://battlebots.com/robot/overhaul-2018/) in the 2018 and 2021 seasons of Battlebots, and Team [Valkyrie](https://battlebots.com/robot/valkyrie-2019/) in 2019.   
 
 
 
