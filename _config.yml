@@ -18,18 +18,16 @@ email: yufangzh@oregonstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Fangzhou Yu
 github_username: roboTurt
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
-
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 include:
   - _pages
 
@@ -55,20 +53,23 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Fangzhou Yu"
+
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "M.S Robotics Student at Oregon State University, working on bringing legged robots out into the real world."
+  location : "Corvallis, OR"
   links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/fangzhou-yu-9b6390172"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yufangzh@oregonstate.edu"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/roboTurt"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/fangzhou-yu-9b6390172"
+
 
 
 defaults:
