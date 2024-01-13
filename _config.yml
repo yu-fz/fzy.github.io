@@ -58,6 +58,9 @@ author:
   bio    : ""
   location: "Boston, MA"
   links:
+    - label: "The AI Institute"
+      icon: "fa fa-map-marker"
+      
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:fngzhou.yu@gmail.com"
