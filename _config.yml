@@ -56,7 +56,7 @@ author:
 
   avatar : "/assets/images/bio-photo.png"
   bio    : ""
-  location: "Boston, MA", "The AI Institute"
+  location: "Boston, MA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
