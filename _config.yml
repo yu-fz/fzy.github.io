@@ -64,11 +64,11 @@ author:
       url: "mailto:fngzhou.yu@gmail.com"
 
     - label: "GitHub"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/yu-fz"
 
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=4idDRsUAAAAJ"
 
     - label: "LinkedIn"
