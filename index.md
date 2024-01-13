@@ -9,5 +9,5 @@ author_profile: true
 
 :wave: Hi, this is Fangzhou. I am particularly interested in optimization and learning for control of highly dynamic robots, and cooking. Currently, I am an Applied Scientist at the Boston Dynamics AI Institute.
 
-I graduated from Oregon State University with a M.S in Robotics, where I worked on RL and trajectory optimization for Cassie and Digit. Prior to that, I was a pastry cook in NYC at [Pecking House](https://www.peckinghouse.com/). I did my undergrad in Mechanical Engineering at Stony Brook University.
+I graduated from Oregon State University with a M.S in Robotics, where I worked on RL and trajectory optimization for Cassie and Digit. Prior to that, I was a pastry cook in NYC at [Pecking House](https://www.peckinghouse.com/). Even before that, I did my undergrad in Mechanical Engineering at Stony Brook University.
 
