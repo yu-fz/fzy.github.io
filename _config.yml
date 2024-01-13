@@ -56,7 +56,7 @@ author:
 
   avatar : "/assets/images/bio-photo.png"
   bio    : ""
-  locations :
+  location:
     - "Boston, MA"
     - "The AI Institute"
   links:
