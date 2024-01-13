@@ -67,7 +67,7 @@ author:
       url: "https://github.com/yu-fz"
 
     - label: "Google Scholar"
-      icon: "fab fa-graduation-cap"
+      icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=4idDRsUAAAAJ"
 
     - label: "LinkedIn"
