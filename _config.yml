@@ -17,7 +17,7 @@ title: Fangzhou Yu
 email: yufangzh@oregonstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Fangzhou Yu
-github_username: roboTurt
+github_username: yu-fz
 minimal_mistakes_skin: air
 search: true
 # Build settings
@@ -54,17 +54,22 @@ plugins:
 
 author:
 
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M.S Robotics Student at Oregon State University, working on bringing legged robots out into the real world."
-  location : "Corvallis, OR"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : ""
+  location : "Boston, MA"
+  location : "The AI Institute"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yufangzh@oregonstate.edu"
+      url: "mailto:fngzhou.yu@gmail.com"
 
     - label: "GitHub"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://github.com/yu-fz"
+
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/roboTurt"
+      url: "https://scholar.google.com/citations?hl=en&user=4idDRsUAAAAJ"
 
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
